@@ -1,0 +1,13 @@
+pandas 
+numpy 
+torch
+scikit-learn
+shap
+matplotlib
+yahooquery
+yfinance
+fastapi
+pydantic
+uvicorn
+transformers
+#.\.venv\Scripts\Activate.ps1
