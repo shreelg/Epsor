@@ -1,7 +1,3 @@
-# Epsor
-
----
-
 ## Video Demo
 
 [Epsor Demo](https://drive.google.com/file/d/14Juhbu8TcNUrKTbFWoC51FJjV3eEr5ZP/view?usp=sharing)
@@ -17,7 +13,7 @@
 - **SHAP:** Provides interpretability by highlighting the key features influencing each model prediction.  
 - **FastAPI:** Implements a lightweight API that accepts ticker inputs and returns buy/sell signals alongside confidence scores and detailed explanations.
 - **SQLite:** for large data creation and management
-- All features used: Ticker ,Sector ,Industry, Shares Outstanding, Beta, PE Ratio, Earnings Date, Market Cap, Revenue, Price % Change After EPS (1d), EPS Actual,EPS Estimate, EPS Surprise, Surprise %, price_pct_change_1d_before, price_pct_change_5d_before, volume_pct_change_1d_before, volatility_5d, ma_5, ma_10, ma_20
+- All features used: Ticker, Sector, Industry, Shares Outstanding, Beta, PE Ratio, Earnings Date, Market Cap, Revenue, Price % Change After EPS (1d), EPS Actual,EPS Estimate, EPS Surprise, Surprise %, price_pct_change_1d_before, price_pct_change_5d_before, volume_pct_change_1d_before, volatility_5d, ma_5, ma_10, ma_20
 
 
 
