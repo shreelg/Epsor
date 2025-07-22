@@ -4,7 +4,7 @@
 
 ## Video Demo
 
-[![Epsor Demo](https://drive.google.com/file/d/14Juhbu8TcNUrKTbFWoC51FJjV3eEr5ZP/view?usp=sharing)
+[Epsor Demo](https://drive.google.com/file/d/14Juhbu8TcNUrKTbFWoC51FJjV3eEr5ZP/view?usp=sharing)
 
 ---
 
